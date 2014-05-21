@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--     <string name="app_name">Hospital Mapper</string> -->
+<!--     <string name="send">पठाउनुहोस्  </string> -->
+<!--     <string name="hospital_name">होस्पिटल को नाम </string> -->
+<!--     <string name="name_error_notset">कृपया होस्पिटल को नाम राख्नुहोस </string> -->
+<!--     <string name="gps_error_off">जी पी एस बन्द छ, सुचारु गर्नुहोस</string> -->
+<!--     <string name="gps_error_nofix">जी पी एस ले ठाउँ पत्ता लगाउदै छ , केहि छिन् पर्खानुहोस </string> -->
+<!--     <string name="sms_send_sucessful">बधाई छ तपाईंले यो ठाउँ को कोओर्डीनेट सफल्ताका साथ पठाउनु भयो</string> -->
+<!--     <string name="ok"> हुन्छ </string> -->
+<!--     <string name="no"> हुदैन </string> -->
+    
+    
+<!--     <string name="action_settings">Settings</string> -->
+
+
+
+    <string name="app_name">Hospital Mapper</string>
+    <string name="send">Send  </string>
+    <string name="hospital_name">Name of Hospital </string>
+    <string name="name_error_notset">Please enter name of Hospital </string>
+    <string name="gps_error_off">GPS is off, Start it ?</string>
+    <string name="gps_error_nofix">Waiting for a gps fix, please wait for some time </string>
+    <string name="sms_send_sucessful">Congatulations, you have successfully sent the Coordinates</string>
+    <string name="ok"> OK</string>
+    <string name="no"> No</string>
+    
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
